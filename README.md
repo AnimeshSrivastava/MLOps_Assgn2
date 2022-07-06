@@ -1,6 +1,6 @@
 [![MLOps testing with GitHub Actions](https://github.com/AnimeshSrivastava/MLOps_Assgn2/actions/workflows/main.yml/badge.svg)](https://github.com/AnimeshSrivastava/MLOps_Assgn2/actions/workflows/main.yml)
 
-MLOps_Assgn2
+MLOps_Assgn2: ML model to predict boston housing prices and track ML Ops for the same
 ==============================
 
 ML Ops flow implementation
