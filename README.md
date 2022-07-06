@@ -1,3 +1,5 @@
+[![MLOps testing with GitHub Actions](https://github.com/AnimeshSrivastava/MLOps_Assgn2/actions/workflows/main.yml/badge.svg)](https://github.com/AnimeshSrivastava/MLOps_Assgn2/actions/workflows/main.yml)
+
 MLOps_Assgn2
 ==============================
 
